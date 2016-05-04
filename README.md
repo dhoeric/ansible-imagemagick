@@ -1,5 +1,7 @@
-Role Name
+dhoeric.imagemagick
 =========
+
+[![Build Status](https://travis-ci.org/dhoeric/ansible-imagemagick.svg?branch=master)](https://travis-ci.org/dhoeric/ansible-imagemagick)
 
 Install ImageMagick, also fix ImageTragic
 
