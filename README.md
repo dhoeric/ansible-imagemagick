@@ -2,6 +2,8 @@ dhoeric.imagemagick
 =========
 
 [![Build Status](https://travis-ci.org/dhoeric/ansible-imagemagick.svg?branch=master)](https://travis-ci.org/dhoeric/ansible-imagemagick)
+[![Ansible Role](https://img.shields.io/ansible/role/9522.svg)](https://galaxy.ansible.com/dhoeric/imagemagick/)
+[![Ansible Role](https://img.shields.io/ansible/role/d/9522.svg)](https://galaxy.ansible.com/dhoeric/imagemagick/)
 
 Install ImageMagick, also fix ImageTragic
 
